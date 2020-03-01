@@ -1,1 +1,16 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <script type="test/javascript">
+  
+    </script>
+  
+    </head>
+    <body>
+        <div>
+            <input id="a" type="test"/>
+            <input id="b" type="test"/>
+            <input type="button" onclick="SUM" value="sum"/>
+        </div>
+</body>
+</html>
